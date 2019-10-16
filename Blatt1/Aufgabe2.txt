@@ -1,0 +1,3 @@
+Nein, die Reihenfolge der Zeilen ist irrelevant.
+Nein, die Reihenfolge der Spalten ist irrelevant.
+Nein, identische Tupel duerfen nicht auftreten.

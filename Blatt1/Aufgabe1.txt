@@ -1,0 +1,4 @@
+- Unabhaengigkeit der Daten von der Speicherung
+- Zugrifssschutz
+- Mehrfachzugriff
+- Integritaet

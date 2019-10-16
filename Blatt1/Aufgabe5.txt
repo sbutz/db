@@ -1,0 +1,2 @@
+Bei maximal einem gleichzeitigen Zugriff muss die Konsistenz nicht extra
+sicher gestellt werden.

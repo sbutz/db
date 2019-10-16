@@ -1,0 +1,2 @@
+Administrator hat datenbank spezifische Kenntnisse. Nutzer nicht.
+Anwender soll nicht Datenbankstruktur aendern sondern nur Eintraege verwalten.

@@ -1,0 +1,11 @@
+a)
+Export, Loewenbraeu
+Hell, EKU
+Maerzen, Hofbraeu
+
+b)
+Maerzen, Hofbraeu, 3
+Alkohlfreies Pils, Clausthaler, 1
+
+c)
+Loewenbraeu, 22
