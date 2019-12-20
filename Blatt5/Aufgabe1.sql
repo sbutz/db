@@ -1,0 +1,8 @@
+ALTER TABLE Auftragsposten
+DROP CONSTRAINT FK_Auftrag_Auftrag;
+
+DROP TABLE Auftrag;
+DROP TABLE Kunde;
+DROP TABLE Personal;
+
+ROLLBACK;
